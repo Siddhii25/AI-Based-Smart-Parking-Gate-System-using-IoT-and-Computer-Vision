@@ -298,4 +298,3 @@ Press **Q** in the OpenCV window to quit.
 
 
 
-<p align="center">Made with ❤️ by Mohit, Siddhi & Raunak · MRIIRS · 2025–2026</p>
