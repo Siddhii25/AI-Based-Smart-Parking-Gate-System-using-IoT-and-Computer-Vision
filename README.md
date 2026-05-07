@@ -312,24 +312,6 @@ Press **Q** in the OpenCV window to quit.
 
 ---
 
-## 📚 References
 
-1. Jocher, G., Chaurasia, A., & Qiu, J. (2023). *Ultralytics YOLOv8*. GitHub. https://github.com/ultralytics/ultralytics
-2. Redmon, J., et al. (2016). *You Only Look Once: Unified, Real-Time Object Detection*. CVPR, 779–788.
-3. Bradski, G. (2000). *The OpenCV Library*. Dr. Dobb's Journal.
-4. Arduino. (2023). *Arduino UNO Reference Documentation*. https://www.arduino.cc
-5. Kaggle. (2023). *Parking Lot Dataset*. https://www.kaggle.com/datasets
-6. Lin, T.-Y., et al. (2017). *Focal Loss for Dense Object Detection*. IEEE TPAMI, 42(2), 318–327.
-7. He, K., et al. (2016). *Deep Residual Learning for Image Recognition*. CVPR, 770–778.
-8. PySerial Development Team. (2023). *PySerial Documentation*. https://pyserial.readthedocs.io
-9. Parekh, H. S., et al. (2020). *IoT Based Smart Parking System*. IJITEE, 9(4).
-
----
-
-## 📄 License
-
-This project was developed for academic purposes as part of the PBL curriculum at **Manav Rachna International Institute of Research and Studies**.
-
----
 
 <p align="center">Made with ❤️ by Mohit, Siddhi & Raunak · MRIIRS · 2025–2026</p>
