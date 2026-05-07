@@ -1,21 +1,5 @@
 # AI-Based-Smart-Parking-Gate-System-using-IoT-and-Computer-Vision
 
-> **Project-Based Learning Report**  
-> Subject: IOT FOR AI LAB [BCS-DS-684] · Academic Year 2025–2026  
-> Manav Rachna International Institute of Research and Studies  
-> Under the guidance of **Mrs. Nidhi**, Dept. of Computer Science & Engineering
-
----
-
-## 👥 Team Members
-
-| Name | Enrollment No. |
-|------|---------------|
-| Mohit Jain | 1/23/SET/BCS/485 |
-| Siddhi Vats | 1/23/SET/BCS/471 |
-| Raunak Pratap Singh | 1/23/SET/BCS/467 |
-
----
 
 ## 📌 Table of Contents
 
